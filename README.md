@@ -1,2 +1,11 @@
-# metalurgy-portfolio
-A Metallurgical Engineering student with an interest in the manufacturing, mining, and metal processing industries. This portfolio includes projects on comminution simulation, casting analysis, and material characterization studies as applications of metallurgy in production processes.
+# Portofolio Metalurgi - Grev Manurung
+
+Halo! Saya mahasiswa Teknik Metalurgi yang tertarik pada bidang manufaktur dan tambang.  
+Berikut beberapa proyek dan simulasi yang pernah saya kerjakan:
+
+-  **Simulasi kominusi (Jaw Crusher, Roll Crusher, Ball Mill)** — menggunakan MATLAB & Excel.  
+-  **Analisis hasil pengecoran logam** — pengaruh temperatur dan komposisi pada struktur mikro.  
+-  **Perhitungan reduksi bijih besi** — berdasarkan data kinetika reaksi.
+
+💻 Software yang digunakan: MATLAB, Simulink, solidworks, Origin,SSPS, Excel.
+
