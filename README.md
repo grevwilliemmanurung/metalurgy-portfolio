@@ -1,11 +1,10 @@
-# Portofolio Metalurgi - Grev Manurung
+# Metallurgical Portfolio - Grev Manurung
 
-Halo! Saya mahasiswa Teknik Metalurgi yang tertarik pada bidang manufaktur dan tambang.  
-Berikut beberapa proyek dan simulasi yang pernah saya kerjakan:
+Hello! I'm a Metallurgical Engineering student interested in manufacturing and mining.
+Here are some projects and simulations I've worked on:
 
--  **Simulasi kominusi (Jaw Crusher, Roll Crusher, Ball Mill)** — menggunakan MATLAB & Excel.  
--  **Analisis hasil pengecoran logam** — pengaruh temperatur dan komposisi pada struktur mikro.  
--  **Perhitungan reduksi bijih besi** — berdasarkan data kinetika reaksi.
+-  **Comminution Simulation (Jaw Crusher, Roll Crusher, Ball Mill)** — using MATLAB & Excel.
+-  **Metal Casting Results Analysis** — the effect of temperature and composition on microstructure.
+-  **Iron Ore Reduction Calculation** — based on reaction kinetics data.
 
-💻 Software yang digunakan: MATLAB, Simulink, solidworks, Origin,SSPS, Excel.
-
+💻 Software Used: MATLAB, Simulink, SolidWorks, Origin, Excel.
